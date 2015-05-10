@@ -1,6 +1,6 @@
-#My winning submission for the WWDC 2015 Scholarship.
+#WWDC 2015 Scholarship Submission
 
-I ran out of time, and submitted something I knew had issues, both in terms of usability and code reuse. Thankfully, it was good enough to earn me a ticket.
+I ran out of time, and submitted something I knew had issues, both in terms of usability and code reuse. **Thankfully, it was good enough to earn me a ticket.**
 
 I wanted to fix said issues before open-sourcing this project, because they really aren't indicative of my usual code quality. However, I felt that would be mischaracterizing the quality of my application at the time of submission, so I've decided to commit my code as it was when I submitted it.
 
