@@ -48,7 +48,7 @@ class CardStackViewController: UIViewController, UIPageViewControllerDataSource 
 
         view.addSubview(circ)
         UIView.animateWithDuration(0.4, animations: {
-        circ.transform = CGAffineTransformMakeScale(20, 20)
+        circ.transform = CGAffineTransformMakeScale(25, 25)
         }, completion: { bl in
             circ.removeFromSuperview()
             self.cardsController.setViewControllers([self.vcs.first!], direction: UIPageViewControllerNavigationDirection.Forward, animated: true, completion: nil)
